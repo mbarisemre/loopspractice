@@ -1,0 +1,1 @@
+In this repo , some loop practices were done . Just to practice and recap later on , wanted to keep it here .. 
